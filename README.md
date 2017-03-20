@@ -1,2 +1,3 @@
-# hello-world
-Just anothe repository
+<script>
+alert("Hello Wolrd!!");
+</script>
